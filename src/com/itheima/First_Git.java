@@ -7,4 +7,11 @@ public class First_Git {
         System.out.println("hello Git");
         System.out.println("hello Git");
     }
+
+    public void test(){
+        System.out.println("next ....");
+        System.out.println("next ....");
+        System.out.println("next ....");
+        System.out.println("next ....");
+    }
 }
